@@ -38,8 +38,8 @@
 
   Finally, =more-conditions= supports embedding documentation
   references in conditions via =condition-references= and the
-  =reference-condition= mixin. See [[*Embedding Documentation References
-  in Conditions]] below.
+  =reference-condition= mixin. See
+  [[*Embedding Documentation References in Conditions]] below.
 
 
   #+ATTR_HTML: :alt "build status image" :title Build Status :align right
